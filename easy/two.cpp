@@ -1,7 +1,7 @@
 #include<iostream>
-// this program takes two integers as inputs and returns their sum.
+// this program takes three integers as inputs and returns their sum.
 int main(){
-    int a,b;
-    cin>>a>>b;
-    return a+b;
+    int a,b,c;
+    cin>>a>>b>>c;
+    return a+b+c;
 }
